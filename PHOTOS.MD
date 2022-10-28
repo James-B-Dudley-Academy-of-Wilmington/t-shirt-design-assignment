@@ -8,6 +8,7 @@ Combine other images from the internet to make a new, 'photoshopped' image!
 - The lasso select tool ( looks like a cowboy lasso )
 - The 'clone stamp' tool ( looks like a stamp )
 - The 'spot heal' tool ( looks like a bandaid )
+- **USE LAYERS!!!**
 
 ## Change the sky in this photo:
 > Is there mountain behind them? A city skyline? A storm? A tornado? 
