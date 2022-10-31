@@ -16,6 +16,8 @@ GIMP allows you to use _layers_ and a lot of times you will need to exclude part
 
 Or ask Mr. Tyhacz!
 
+### [Layer Masking Video](https://youtu.be/J2jhZ8E7ebI)
+
 
 ## Find a T Shirt outline template!
 
