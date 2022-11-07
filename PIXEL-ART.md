@@ -2,7 +2,7 @@
 
 #### [Watch my GIMP tutorial video!](https://www.youtube.com/watch?v=pEHuiTMehBU)
 
-## Show the grid
+## Get Started:
 
 ### 1. Go to 'New'
 <img width="433" alt="image" src="https://user-images.githubusercontent.com/38140593/200368575-bc602ebd-911a-4c88-8aed-27dbd06703e8.png">
